@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vignesh271-28/Employee_Mangement_System.git/static/css/main.194686fb.css",
-    "main.js": "/Vignesh271-28/Employee_Mangement_System.git/static/js/main.9a018a14.js",
-    "static/js/453.e6911667.chunk.js": "/Vignesh271-28/Employee_Mangement_System.git/static/js/453.e6911667.chunk.js",
-    "index.html": "/Vignesh271-28/Employee_Mangement_System.git/index.html",
-    "main.194686fb.css.map": "/Vignesh271-28/Employee_Mangement_System.git/static/css/main.194686fb.css.map",
-    "main.9a018a14.js.map": "/Vignesh271-28/Employee_Mangement_System.git/static/js/main.9a018a14.js.map",
-    "453.e6911667.chunk.js.map": "/Vignesh271-28/Employee_Mangement_System.git/static/js/453.e6911667.chunk.js.map"
+    "main.css": "/Employee_Mangement_System.git/static/css/main.194686fb.css",
+    "main.js": "/Employee_Mangement_System.git/static/js/main.2d79d659.js",
+    "static/js/453.e6911667.chunk.js": "/Employee_Mangement_System.git/static/js/453.e6911667.chunk.js",
+    "index.html": "/Employee_Mangement_System.git/index.html",
+    "main.194686fb.css.map": "/Employee_Mangement_System.git/static/css/main.194686fb.css.map",
+    "main.2d79d659.js.map": "/Employee_Mangement_System.git/static/js/main.2d79d659.js.map",
+    "453.e6911667.chunk.js.map": "/Employee_Mangement_System.git/static/js/453.e6911667.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.194686fb.css",
-    "static/js/main.9a018a14.js"
+    "static/js/main.2d79d659.js"
   ]
 }
